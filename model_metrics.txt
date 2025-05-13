@@ -1,0 +1,18 @@
+Model Performansý Metrikleri:
+Precision: 0.9987
+Recall: 0.9987
+F1 Score: 0.9987
+
+Sýnýf Bazlý Metrikler:
+cat:
+  Precision: 1.0000
+  Recall: 0.9980
+  F1 Score: 0.9990
+dog:
+  Precision: 0.9980
+  Recall: 1.0000
+  F1 Score: 0.9990
+wild:
+  Precision: 0.9980
+  Recall: 0.9980
+  F1 Score: 0.9980
